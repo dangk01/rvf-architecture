@@ -17,7 +17,7 @@ Avi avibhatt@umich.edu [avi22bhattacharya](https://github.com/avi22bhattacharya)
 
 Sam tansam@umich.edu [Toshihiko-tan](https://github.com/Toshihiko-tan) Model Designing
 
-Nathan tkdang97@gmail.com [dangk01](https://github.com/dangk01) Model Tuning
+Nathan tkdang97@gmail.com [dangk01](https://github.com/dangk01) Model Tuning, Model Designing
 
 Dennis dennisfj@umich.edu [dennisfarmer](https://github.com/dennisfarmer) Model Designing, Web Development
 
